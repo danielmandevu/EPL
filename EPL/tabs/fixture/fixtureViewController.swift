@@ -30,7 +30,6 @@ class fixtureViewController: UIViewController,UITableViewDelegate,UITableViewDat
         // Do any additional setup after loading the view.
     }
     
-//HELLO WORLD
     func match_fixture(){
         let key = "dcbd1e10-4ad8-11eb-a6ab-498417043a56"
         //let url = "https://app.sportdataapi.com/api/v1/soccer/matches?apikey=\(key)&season_id=352&date_from=2021-04-23"
