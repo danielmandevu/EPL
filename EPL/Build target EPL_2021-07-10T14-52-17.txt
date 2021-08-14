@@ -1,0 +1,7 @@
+
+Showing Recent Errors Only
+
+Build target EPL of project EPL with configuration Debug
+error: Signing for "EPL" requires a development team. Select a development team in the Signing & Capabilities editor. (in target 'EPL' from project 'EPL')
+
+
