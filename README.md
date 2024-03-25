@@ -7,5 +7,5 @@ ios mobile application that will enable quick access to the leagues data such as
   	-you will need to download the file into your computer(Mac). 
  	-with Xcode installed, open the EPL folder and click  to open the EPL.xcodeproj file.
 
-If there is any problem faced, dont hesitate to contact me -> danielmandevu7@gmail.com
+Issues encountered? dont hesitate to contact me -> danielmandevu7@gmail.com
 
